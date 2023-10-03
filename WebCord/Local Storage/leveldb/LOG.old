@@ -1,0 +1,20 @@
+2023/06/03-13:32:02.689 72f Reusing MANIFEST /home/david/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2023/06/03-13:32:02.690 72f Recovering log #8
+2023/06/03-13:32:02.690 72f Reusing old log /home/david/.config/WebCord/Local Storage/leveldb/000008.log 
+2023/06/03-13:34:04.538 72f Level-0 table #12: started
+2023/06/03-13:34:04.542 72f Level-0 table #12: 17513 bytes OK
+2023/06/03-13:34:04.546 72f Delete type=0 #8
+2023/06/03-13:34:04.546 72f Compacting 4@0 + 0@1 files
+2023/06/03-13:34:04.568 72f Generated table #13@0: 71 keys, 1665633 bytes
+2023/06/03-13:34:04.568 72f Compacted 4@0 + 0@1 files => 1665633 bytes
+2023/06/03-13:34:04.572 72f compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/06/03-13:34:04.572 72f Delete type=2 #3
+2023/06/03-13:34:04.572 72f Delete type=2 #6
+2023/06/03-13:34:04.572 72f Delete type=2 #9
+2023/06/03-13:34:04.572 72f Delete type=2 #12
+2023/06/03-13:57:04.539 193f Level-0 table #15: started
+2023/06/03-13:57:04.542 193f Level-0 table #15: 19805 bytes OK
+2023/06/03-13:57:04.546 193f Delete type=0 #11
+2023/06/03-14:23:04.538 7a6e Level-0 table #17: started
+2023/06/03-14:23:04.542 7a6e Level-0 table #17: 17721 bytes OK
+2023/06/03-14:23:04.545 7a6e Delete type=0 #14
